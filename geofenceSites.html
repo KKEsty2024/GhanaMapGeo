@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geofence Sites Map</title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        .popup-content {
+            font-size: 20px; /* Increased font size for popup content */
+            line-height: 1.5;
+        }
+        .marker {
+            background-size: contain; /* Keep the icon size proportional */
+            width: 15px; /* Keep marker size */
+            height: 15px; /* Keep marker size */
+            transition: transform 0.2s; /* Smooth scaling on hover */
+        }
+        .marker:hover {
+            transform: scale(1.2); /* Slightly scale up on hover */
+        }
+        #controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        }
+        .filter-button {
+            margin: 5px;
+            padding: 5px 10px;
+            background-color: #ffb300; /* Default background color */
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: background-color 0.3s; /* Smooth transition for background color */
+        }
+        .filter-button:hover {
+            background-color: #5100b3; /* Color on hover */
+        }
+    </style>
+    
+</head>
+<body>
+    <div id="controls">
+        <button class="filter-button" id="all">All Geo Sites</button>
+        <button class="filter-button" id="tracked">Tracked Geo Sites</button>
+        <button class="filter-button" id="untracked">Untracked Geo Sites</button>
+    </div>
+    <div id="map"></div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsLWZpbmRydHJhY2tpbmciLCJhIjoiY20yNG52NnA3MGVmbjJqcXV1Z2FtczhubiJ9.y26OUUxKLe2ZP4YUAw1a8Q';
+
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [-0.266136666666667, 5.69216166666667], // Center of Ghana
+            zoom: 6
+        });
+
+        let markers = []; // Store markers for filtering
+        fetch('transformed_geofence_sites.json') // Correct URL
+    .then(response => response.json())
+    .then(data => {
+        console.log(data); // Log the fetched data
+        data.forEach(site => {
+            const lat = parseFloat(site.lat);
+            const lon = parseFloat(site.lon);
+            
+            // Check for valid coordinates
+            if (isNaN(lat) || isNaN(lon) || lat === 0 || lon === 0) { // Check if lat or lon is NaN or zero
+                console.warn('Invalid coordinates for site:', site);
+                return; // Skip this site if coordinates are invalid
+            }
+
+            const el = document.createElement('div');
+            el.className = 'marker';
+            el.style.backgroundImage = `url(${site.imei ? 'https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png' : 'https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg'})`;
+
+            // Create a hover popup
+            const hoverPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false });
+
+            // Add hover functionality
+            el.addEventListener('mouseenter', () => {
+                hoverPopup.setLngLat([lon, lat])
+                          .setHTML(` 
+                              <h3 style="font-size: 20px;">${site.siteName}</h3>
+                              <p style="font-size: 15px;">ID: ${site.id}</p>
+                              <p style="font-size: 15px;">Geofence Distance: ${site.geoDistance} m</p>
+                              ${site.imei ? `<p style="font-size: 15px;">IMEI: ${site.imei}</p>` : '<p style="font-size: 15px;">IMEI: Not available</p>'}
+                          `)
+                          .addTo(map);
+            });
+
+            el.addEventListener('mouseleave', () => {
+                hoverPopup.remove();
+            });
+
+            // Add marker to map
+            const marker = new mapboxgl.Marker(el)
+                .setLngLat([lon, lat]) // Use parsed values
+                .setPopup(new mapboxgl.Popup({ offset: 25 })
+                    .setHTML(`
+                        <h3 style="font-size: 20px;">${site.siteName}</h3>
+                        <p style="font-size: 20px;">ID: ${site.id}</p>
+                        <p style="font-size: 20px;">Geofence Distance: ${site.geoDistance} m</p>
+                        ${site.imei ? `<p style="font-size: 15px;">IMEI: ${site.imei}</p>` : '<p style="font-size: 15px;">IMEI: Not available</p>'}
+                    `))
+                .addTo(map);
+
+            // Store marker for filtering
+            markers.push({ marker, imei: site.imei });
+        });
+    })
+    .catch(error => console.error('Error fetching the data:', error));
+
+
+        // Show all markers function
+        function showAllMarkers() {
+            markers.forEach(({ marker }) => {
+                marker.getElement().style.display = 'block'; // Show all sites
+            });
+        }
+
+        // Filter functionality
+        document.getElementById('tracked').addEventListener('click', () => {
+            markers.forEach(({ marker, imei }) => {
+                marker.getElement().style.display = imei ? 'block' : 'none'; // Show tracked sites
+            });
+        });
+
+        document.getElementById('untracked').addEventListener('click', () => {
+            markers.forEach(({ marker, imei }) => {
+                marker.getElement().style.display = !imei ? 'block' : 'none'; // Show untracked sites
+            });
+        });
+
+        // Add event listener for "Show All" button
+        document.getElementById('all').addEventListener('click', showAllMarkers);
+    </script>
+</body>
+</html>
