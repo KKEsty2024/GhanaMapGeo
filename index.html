@@ -64,6 +64,7 @@
             center: [-0.266136666666667, 5.69216166666667], // Center of Ghana
             zoom: 6
         });
+        map.addControl(new mapboxgl.NavigationControl());
 
         let markers = []; // Store markers for filtering
         fetch('transformed_geofence_sites.json') // Correct URL
