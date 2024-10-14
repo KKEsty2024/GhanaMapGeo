@@ -1,0 +1,1802 @@
+[
+  {
+    "lat": 5.4201267,
+    "lon": -2.1351667,
+    "id": 600591,
+    "name": "PRESTIA",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.69216166666667,
+    "lon": -0.266136666666667,
+    "id": 600036,
+    "name": "POKUASI",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.3038014,
+    "lon": -1.9939124,
+    "id": 601240,
+    "name": "TARKWA4",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.70663833333333,
+    "lon": -0.239438333333333,
+    "id": 600088,
+    "name": "ASHONGMAN1",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.1592282,
+    "lon": -2.0746323,
+    "id": 601248,
+    "name": "DOMPIM",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.2148598,
+    "lon": -2.0248546,
+    "id": 601244,
+    "name": "WASSAAGONA",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.5695408,
+    "lon": -0.2036918,
+    "id": 600151,
+    "name": "ASYLUMDOWN",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.905165,
+    "lon": -1.7961664,
+    "id": 600658,
+    "name": "APOLLO",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.69335483417508,
+    "lon": -0.285071676243789,
+    "id": 600182,
+    "name": "POKUASI2",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.13830543,
+    "lon": -1.66861335,
+    "id": 601199,
+    "name": "DABOASE",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.89221156,
+    "lon": -1.75597867,
+    "id": 600655,
+    "name": "TAKORADI2",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8262,
+    "lon": -1.00029,
+    "id": 601277,
+    "name": "ACHIASE2",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.84322666666667,
+    "lon": -0.996833333333333,
+    "id": 600542,
+    "name": "ACHIASE",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.944625,
+    "lon": -0.828033333333333,
+    "id": 601311,
+    "name": "ATIANKAMA",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8582049,
+    "lon": -0.6634516,
+    "id": 601149,
+    "name": "ASAMANKESE2",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.86583,
+    "lon": -0.6736333,
+    "id": 601282,
+    "name": "ASAMANKESE3",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.2908819,
+    "lon": 0.3239122,
+    "id": 601171,
+    "name": "KWAMIKROM",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.14620880782604,
+    "lon": 0.476699201390147,
+    "id": 600563,
+    "name": "HOHOE",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.707755,
+    "lon": -0.045935,
+    "id": 600376,
+    "name": "ASHAIMAN1",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.374135,
+    "lon": -0.5464317,
+    "id": 600678,
+    "name": "ANYINAM",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7008628,
+    "lon": -0.0548493,
+    "id": 600414,
+    "name": "ASHAIMAN3",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7376978,
+    "lon": -0.0200821,
+    "id": 600425,
+    "name": "KAKASUNAKA2",
+    "geofenceDistance": 113,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.71715321,
+    "lon": 0.01493905,
+    "id": 600454,
+    "name": "KPONJUNCTION",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7657864,
+    "lon": -0.0005799,
+    "id": 600466,
+    "name": "MATAHEKOGA",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5471225,
+    "lon": 0.1699842,
+    "id": 600648,
+    "name": "BOSO",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.9462568,
+    "lon": -0.2101484,
+    "id": 601296,
+    "name": "ADAWSO",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.11628,
+    "lon": -0.3462933,
+    "id": 601281,
+    "name": "AKWADUMER",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1343016,
+    "lon": -0.2885185,
+    "id": 600742,
+    "name": "OYOKO",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1611767,
+    "lon": -0.310175,
+    "id": 601231,
+    "name": "JUMAPO",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.05797753333333,
+    "lon": 0.864111066666667,
+    "id": 601180,
+    "name": "ABOR",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.13034988333333,
+    "lon": 0.7907384,
+    "id": 601166,
+    "name": "AKATSI2",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.139825,
+    "lon": 0.0082133,
+    "id": 600690,
+    "name": "KROBOODUMSI",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.0034133,
+    "lon": -0.07989,
+    "id": 601229,
+    "name": "AWUKUGUA",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.0390069,
+    "lon": -0.0794084,
+    "id": 601230,
+    "name": "APIRADE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.0176462,
+    "lon": 0.66224854,
+    "id": 601220,
+    "name": "DABALA",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.70219166666667,
+    "lon": -0.309291666666667,
+    "id": 600892,
+    "name": "AMASAMAN2",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6889054,
+    "lon": -0.0216612,
+    "id": 601024,
+    "name": "ASHAINDUSTRY",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.72215093,
+    "lon": 0.03361458,
+    "id": 601032,
+    "name": "TEMACOMM25",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.177885,
+    "lon": -0.4732967,
+    "id": 601317,
+    "name": "ASAFOER",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.62715618371668,
+    "lon": 0.474265515478571,
+    "id": 601324,
+    "name": "HO3",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 8.2681792,
+    "lon": 0.5181585,
+    "id": 601516,
+    "name": "NKWANTAVR2",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.8922425,
+    "lon": -1.8114986,
+    "id": 601568,
+    "name": "APOWA2",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.92054833333333,
+    "lon": -0.97791,
+    "id": 601591,
+    "name": "AKIMODA2",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.77829,
+    "lon": -0.335855,
+    "id": 601599,
+    "name": "NSAWAM5",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6972036,
+    "lon": -1.8441262,
+    "id": 601659,
+    "name": "OPONGVALEY",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.3996213,
+    "lon": -2.1696617,
+    "id": 601666,
+    "name": "BONDAYE",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.03265,
+    "lon": -0.26186,
+    "id": 601669,
+    "name": "OKORASE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.9485717,
+    "lon": -0.4156033,
+    "id": 601670,
+    "name": "ASUBOI",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.115625,
+    "lon": -0.2814683,
+    "id": 601864,
+    "name": "ASOKORE2",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.820655,
+    "lon": -0.8149383,
+    "id": 601883,
+    "name": "APROKUMASI",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.56729299513212,
+    "lon": 0.405617918177376,
+    "id": 601889,
+    "name": "SOKODE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.288597,
+    "lon": 0.5866847,
+    "id": 601907,
+    "name": "NEWAYOMA",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.603795,
+    "lon": 0.2446862,
+    "id": 601928,
+    "name": "TSATE",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.2344009,
+    "lon": -0.3979901,
+    "id": 601962,
+    "name": "OLDTAFOER",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601963,
+    "name": "BEGORO4",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.382345,
+    "lon": -0.5460633,
+    "id": 601964,
+    "name": "ANYINAM2",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.93349816,
+    "lon": -1.8004104,
+    "id": 601975,
+    "name": "ASSAKAE",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6194807,
+    "lon": 0.474355,
+    "id": 601982,
+    "name": "HOCKROAD",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6117383,
+    "lon": 0.4569881,
+    "id": 601986,
+    "name": "HOKABAKABA",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8144817,
+    "lon": -0.3439483,
+    "id": 602041,
+    "name": "NSAGYAKROM",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6245833,
+    "lon": 0.4678739,
+    "id": 602046,
+    "name": "HOFOREST2",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.537596,
+    "lon": 0.2480547,
+    "id": 602050,
+    "name": "PEKIAWUDOME",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.14367816666667,
+    "lon": 0.807972616666667,
+    "id": 602128,
+    "name": "AKATSI3",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602137,
+    "name": "EMEFESTATEMATEHEKO",
+    "geofenceDistance": 113,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6273,
+    "lon": -0.0227591,
+    "id": 602154,
+    "name": "EMEFESTATE",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.0100135,
+    "lon": -2.0862793,
+    "id": 602166,
+    "name": "ESSAMAN",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.08693,
+    "lon": 1.13113166666667,
+    "id": 602288,
+    "name": "DENU2(REP)",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.3761071,
+    "lon": 0.6084705,
+    "id": 602294,
+    "name": "KUTE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.4428544,
+    "lon": -2.1344542,
+    "id": 602392,
+    "name": "PRESTEA4",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.13017978333333,
+    "lon": 0.802617366666667,
+    "id": 602394,
+    "name": "AKATSI4",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.98499748,
+    "lon": -1.63931123,
+    "id": 602437,
+    "name": "ABOADZE2",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.0267327,
+    "lon": -2.0849839,
+    "id": 602447,
+    "name": "KEDADWEN",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1829202,
+    "lon": 0.949404783333333,
+    "id": 602469,
+    "name": "KPELIKOPE2",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 8.0713467,
+    "lon": 0.1826346,
+    "id": 602553,
+    "name": "DAMBAI2",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.00264541666667,
+    "lon": 0.85967605,
+    "id": 602558,
+    "name": "TSIAME",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.8009781,
+    "lon": -1.950171,
+    "id": 602566,
+    "name": "DIXCOVE",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.3271989,
+    "lon": -1.9814762,
+    "id": 602624,
+    "name": "TARKWABUDU",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.5804261,
+    "lon": -0.4475526,
+    "id": 602749,
+    "name": "KASOAOFANKOR",
+    "geofenceDistance": 116,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.70056802917606,
+    "lon": -0.297434627535806,
+    "id": 602951,
+    "name": "AMASAMANHOSPITAL",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.9231745,
+    "lon": -0.1307901,
+    "id": 603011,
+    "name": "AKWAPIMMAMPONG",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.67051963021968,
+    "lon": -0.324072998391921,
+    "id": 603190,
+    "name": "NSAKINA2",
+    "geofenceDistance": 109,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7894303,
+    "lon": 0.020513,
+    "id": 603690,
+    "name": "AFIENYADAWENYARD",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.60953742188785,
+    "lon": -0.0696197942339456,
+    "id": 603699,
+    "name": "NUNGUA3",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.60333343728624,
+    "lon": -0.075378332247152,
+    "id": 603702,
+    "name": "NUNGUA4",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6405116,
+    "lon": -0.1003998,
+    "id": 604396,
+    "name": "SPINTEXOKPOIGONO",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.33174215,
+    "lon": 0.87899455,
+    "id": 604418,
+    "name": "AVAFIADENYIGBA",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1497689,
+    "lon": 0.0163981,
+    "id": 604557,
+    "name": "ODUMASELKROBO",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 604705,
+    "name": "ANAJINAMIBIA",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.2011783,
+    "lon": -0.414115,
+    "id": 604784,
+    "name": "AKYEMMAASE",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.88551554,
+    "lon": -1.75942337,
+    "id": 612830,
+    "name": "TAKORADIRELO",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.552255,
+    "lon": -0.4287283,
+    "id": 612898,
+    "name": "AMANFROM3",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 8.0416753,
+    "lon": 0.2002916,
+    "id": 613138,
+    "name": "DAMBAIREGIONALCC",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.2494859,
+    "lon": -2.0011754,
+    "id": 613166,
+    "name": "AKYIAMPIM",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7895735,
+    "lon": -0.007751,
+    "id": 613183,
+    "name": "NEWJERUSALEM",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.67497643084674,
+    "lon": -0.328320847489833,
+    "id": 613208,
+    "name": "NSAKINA",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 8.2438296,
+    "lon": 0.5232656,
+    "id": 613235,
+    "name": "NKWANTA",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6842595260338,
+    "lon": -0.327674619394988,
+    "id": 613276,
+    "name": "OBEYEYIEFIRSTLIGHT",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1359423,
+    "lon": 0.895474866666667,
+    "id": 613296,
+    "name": "OHAWU",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602199,
+    "name": "NEWSUBRI",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600651,
+    "name": "GAG2",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602898,
+    "name": "OFANKORODUMPONG",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 613066,
+    "name": "KASOAROCKCITY",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601529,
+    "name": "ITUMA2",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601534,
+    "name": "TAKORADI6",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602043,
+    "name": "AKIMODA5",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600695,
+    "name": "DAMBAI",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 603126,
+    "name": "ASAMANKESEHOSPITALBTF",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602471,
+    "name": "NKWANTAVR3",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600717,
+    "name": "AMEDZOPE",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 604276,
+    "name": "HONUWE",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602834,
+    "name": "BEPOASE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 257,
+    "name": "KOFORIDUA12",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601611,
+    "name": "KEDZI",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8706533,
+    "lon": -2.002815,
+    "id": 601561,
+    "name": "WASADADISO",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.513095,
+    "lon": -1.8630734,
+    "id": 601200,
+    "name": "DAMINE",
+    "geofenceDistance": 118,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.2905557,
+    "lon": -1.9959965,
+    "id": 600599,
+    "name": "TARKWA2",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.284874,
+    "lon": -2.7731864,
+    "id": 600565,
+    "name": "ELUBO",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.68749166666667,
+    "lon": -0.243818333333333,
+    "id": 600139,
+    "name": "KWABENYA2",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.92807666666667,
+    "lon": -2.32431333333333,
+    "id": 600604,
+    "name": "ESSIAMA",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.08903666666667,
+    "lon": -1.12724,
+    "id": 601155,
+    "name": "AYERIBI",
+    "geofenceDistance": 109,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.3481429,
+    "lon": -0.4832758,
+    "id": 600633,
+    "name": "OSINO",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.7322879,
+    "lon": 0.5109134,
+    "id": 600731,
+    "name": "DODIPAPASE",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.5137931,
+    "lon": 0.372347,
+    "id": 601182,
+    "name": "WORAWORA",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.40947519,
+    "lon": 0.47194769,
+    "id": 600564,
+    "name": "JASIKAN",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.4517127,
+    "lon": 0.3407184,
+    "id": 601187,
+    "name": "ABOTOASE",
+    "geofenceDistance": 113,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5406356,
+    "lon": -0.7624934,
+    "id": 600497,
+    "name": "NKAWKAW",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.1461015,
+    "lon": 0.4653027,
+    "id": 601138,
+    "name": "HOHOE2",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.1824313,
+    "lon": 0.6036907,
+    "id": 600734,
+    "name": "LIKPEMATE",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1606746,
+    "lon": -0.5558971,
+    "id": 600709,
+    "name": "KIBI2",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.99172748252749,
+    "lon": 0.290756151080132,
+    "id": 600562,
+    "name": "KPANDO",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7243044,
+    "lon": -0.011009,
+    "id": 600398,
+    "name": "KAKASUNAKA1",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7209171,
+    "lon": 0.0494893,
+    "id": 600409,
+    "name": "ASHAYMAN5",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.720526,
+    "lon": 0.0486822,
+    "id": 600442,
+    "name": "AFARIWASTN",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6095521,
+    "lon": 0.4439128,
+    "id": 600628,
+    "name": "HO",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.65718232223589,
+    "lon": -0.0749395234100364,
+    "id": 600445,
+    "name": "TEMCOM20",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.686902,
+    "lon": 0.3316655,
+    "id": 601219,
+    "name": "KPEVE",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.7579489,
+    "lon": 0.3602772,
+    "id": 601164,
+    "name": "HAVEETOE",
+    "geofenceDistance": 115,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8177483,
+    "lon": -0.3491482,
+    "id": 600588,
+    "name": "NSAWAM2",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8052392,
+    "lon": 0.0008727,
+    "id": 600468,
+    "name": "AFIENYA",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5546836,
+    "lon": 0.1765583,
+    "id": 601287,
+    "name": "BOSO2",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5328523,
+    "lon": 0.2262043,
+    "id": 600559,
+    "name": "PEKI",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.0936767,
+    "lon": -0.3812983,
+    "id": 601301,
+    "name": "NANKESE",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.89701166666667,
+    "lon": 0.987015,
+    "id": 600631,
+    "name": "KETA",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.0937633,
+    "lon": 1.14497,
+    "id": 601159,
+    "name": "DENU",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6613904,
+    "lon": -0.0934165,
+    "id": 601026,
+    "name": "NUNGUAFAM2",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.69992166666667,
+    "lon": -0.252003333333333,
+    "id": 600885,
+    "name": "KWABENYA4",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.0539933,
+    "lon": 0.0238783,
+    "id": 601412,
+    "name": "AMANKWAKROM",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.4298704,
+    "lon": 0.4272868,
+    "id": 601512,
+    "name": "JASIKAN2",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.178815,
+    "lon": -0.546545,
+    "id": 601587,
+    "name": "KIBI3",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.36709,
+    "lon": -0.36521,
+    "id": 601592,
+    "name": "BEGORO",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.9045833,
+    "lon": -0.384422,
+    "id": 601601,
+    "name": "TCHERMANTE",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.79689333333333,
+    "lon": -2.13412666666667,
+    "id": 601655,
+    "name": "PRINCETOWN",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.2924826,
+    "lon": -1.0517839,
+    "id": 601682,
+    "name": "ODANKWANTA",
+    "geofenceDistance": 115,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.93309,
+    "lon": -0.97956,
+    "id": 601850,
+    "name": "ODA3",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.1482096,
+    "lon": 0.0208456,
+    "id": 601852,
+    "name": "AGOMANYA2",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8646591,
+    "lon": -0.6618006,
+    "id": 601858,
+    "name": "ASAMANKESE4",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.59347008675485,
+    "lon": 0.463677429978556,
+    "id": 601888,
+    "name": "HO7",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.98326166666667,
+    "lon": 1.02951333333333,
+    "id": 601912,
+    "name": "AGAVEDZI",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7558383,
+    "lon": -0.2329333,
+    "id": 601924,
+    "name": "BREKESU",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.454049,
+    "lon": 0.3400232,
+    "id": 601937,
+    "name": "TEPAAMANYA",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.092925,
+    "lon": -0.26773,
+    "id": 601961,
+    "name": "KDUAGARDEN",
+    "geofenceDistance": 102,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5936567,
+    "lon": -0.737725,
+    "id": 601966,
+    "name": "MPRAESO",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6176632,
+    "lon": 0.4618372,
+    "id": 601981,
+    "name": "HOFOREST",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6030227505105,
+    "lon": 0.488144289485999,
+    "id": 601984,
+    "name": "HOAWATDOME",
+    "geofenceDistance": 115,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.06829833333333,
+    "lon": -2.19217333333333,
+    "id": 602000,
+    "name": "AKANGO",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.1962325,
+    "lon": -1.9320912,
+    "id": 602030,
+    "name": "ESUASO",
+    "geofenceDistance": 113,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.92618666666667,
+    "lon": -0.995233333333333,
+    "id": 602044,
+    "name": "AKIMODA6",
+    "geofenceDistance": 109,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7612879,
+    "lon": -0.2191291,
+    "id": 602255,
+    "name": "ASHESHIUNI",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8207133,
+    "lon": -0.3995149,
+    "id": 602300,
+    "name": "AHWEREASE",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 4.87480166666667,
+    "lon": -2.20446833333333,
+    "id": 602442,
+    "name": "AXIM3",
+    "geofenceDistance": 110,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8037363,
+    "lon": -2.0734878,
+    "id": 602560,
+    "name": "AKPNG3",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.04896166666667,
+    "lon": -2.37833333333333,
+    "id": 602581,
+    "name": "TANDAN",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.649291,
+    "lon": 0.5194799,
+    "id": 602613,
+    "name": "POASECEMENT",
+    "geofenceDistance": 111,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.04683833333333,
+    "lon": -1.08979666666667,
+    "id": 602719,
+    "name": "KWAMEDONKOR",
+    "geofenceDistance": 117,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.60115936458819,
+    "lon": 0.510928058120868,
+    "id": 602733,
+    "name": "HOESTATE",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.808575,
+    "lon": -0.4291333,
+    "id": 602882,
+    "name": "KWASITENTEN",
+    "geofenceDistance": 100,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.69226305359318,
+    "lon": -0.312417288287246,
+    "id": 603521,
+    "name": "ABEASE",
+    "geofenceDistance": 107,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.0373029,
+    "lon": -2.4640523,
+    "id": 603575,
+    "name": "AIYINASE",
+    "geofenceDistance": 104,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.5566152,
+    "lon": -0.7778171,
+    "id": 604246,
+    "name": "NKAWKAW1",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 7.3155111,
+    "lon": 0.5097747,
+    "id": 604492,
+    "name": "TETEMAN",
+    "geofenceDistance": 101,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.7977533,
+    "lon": -0.4824433,
+    "id": 604499,
+    "name": "ADEISO",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.6165888,
+    "lon": -0.1944707,
+    "id": 604603,
+    "name": "DZORWULU",
+    "geofenceDistance": 106,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.38044282760955,
+    "lon": 0.258000628436596,
+    "id": 604649,
+    "name": "TEMAJASIKANRD",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.776157,
+    "lon": -2.0847024,
+    "id": 613165,
+    "name": "WASSAFARMERS",
+    "geofenceDistance": 118,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.6652327,
+    "lon": 0.4727472,
+    "id": 613168,
+    "name": "TAVIEFE",
+    "geofenceDistance": 117,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 6.8623391026631,
+    "lon": 0.397761538624763,
+    "id": 613245,
+    "name": "TAFIMADOR",
+    "geofenceDistance": 111,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.13855833333333,
+    "lon": -2.19407833333333,
+    "id": 613247,
+    "name": "GWIRAESHIEM",
+    "geofenceDistance": 113,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.02190333333333,
+    "lon": -2.17124,
+    "id": 613248,
+    "name": "GWIRAENYINASE",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 5.8108201,
+    "lon": -0.333875,
+    "id": 613472,
+    "name": "NSAWAM3RELO",
+    "geofenceDistance": 114,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600557,
+    "name": "HALFASSINI",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601211,
+    "name": "SANZULE",
+    "geofenceDistance": 116,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601589,
+    "name": "KADE2",
+    "geofenceDistance": 109,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601302,
+    "name": "AKIMWENCHI",
+    "geofenceDistance": 112,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600694,
+    "name": "ZIOPE",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600730,
+    "name": "DZINDZINSO",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 603092,
+    "name": "HOHOESANTROFI",
+    "geofenceDistance": 105,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 601140,
+    "name": "ABUTIA",
+    "geofenceDistance": 108,
+    "geofenceCategory": "Medium Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 602629,
+    "name": "ANDONO1",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 600581,
+    "name": "ASIKUMA",
+    "geofenceDistance": 116,
+    "geofenceCategory": "Long Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  },
+  {
+    "lat": 0,
+    "lon": 0,
+    "id": 604268,
+    "name": "KITASI",
+    "geofenceDistance": 103,
+    "geofenceCategory": "Short Geofence",
+    "icon": "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+  }
+]
