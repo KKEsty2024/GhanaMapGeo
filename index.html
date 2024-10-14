@@ -67,7 +67,7 @@
             center: [-1.0232, 7.9465], // Set center to Ghana's coordinates
             zoom: 6
         });
-
+        map.addControl(new mapboxgl.NavigationControl());
         // Function to load GeoJSON and display sites
         async function loadGeoData() {
             const response = await fetch('geo__sites.json'); // Load the transformed JSON file
